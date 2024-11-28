@@ -708,3 +708,13 @@ nav a {
     color: white;
     bottom: 230px;
 }
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('../img/fundo_blue_red.avif');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
