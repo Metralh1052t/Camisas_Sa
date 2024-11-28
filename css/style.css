@@ -63,7 +63,7 @@ nav a {
     text-align: center;
     align-content: center;
     position: absolute;
-    right: 20vh;
+    right: 40vh;
     bottom: 7vh;
 }
 
@@ -133,12 +133,13 @@ nav a {
     position: relative;
     font-size: 50px;
     color: white;
+    left: -240px;
 }
 
 #whats{
     display: flex;
     position: relative;
-    left: 800px;
+    left: 810px;
     height: 50px;
     top: 25px;
 }
@@ -146,7 +147,7 @@ nav a {
 #you{
     display: flex;
     position: relative;
-    left: 825px;
+    left: 835px;
     height: 50px;
     top: 25px;
 }
@@ -154,7 +155,7 @@ nav a {
 #insta{
     display: flex;
     position: relative;
-    left: 830px;
+    left: 840px;
     height: 80px;
     top: 10px;
 }
@@ -162,7 +163,7 @@ nav a {
 #carrinho {
     display: flex;
     position: relative;
-    left: 860px;
+    left: 870px;
     height: 77px;
     top: 10px;
     color: aqua;
@@ -173,7 +174,7 @@ nav a {
     height:8vh;
     display: flex;
     position: relative;
-    left: -180px;
+    left: -300px;
 }
 
 #perfil2 {
@@ -184,7 +185,7 @@ nav a {
     font-size: 30px;
     display: flex;
     position: relative;
-    left: -100px;
+    left: -200px;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 
@@ -717,4 +718,16 @@ body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+#home{
+    color: white;
+}
+
+#destaques{
+    color: white;
+}
+
+#avaliacao{
+    color: white;
 }
